@@ -11,6 +11,5 @@ will compile your app jsx to on js file in dist/
 ### Some things that are missing with this setup
 - All the magic from create-react-app
 - Hot reloading
-- A watch option in package.json to compile when your changes are made
 - Polyfills
 - My dad who left for a pack of smokes in 1993
